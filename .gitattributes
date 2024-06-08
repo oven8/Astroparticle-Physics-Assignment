@@ -1,0 +1,10 @@
+Corsika-Files/DAT000011 filter=lfs diff=lfs merge=lfs -text
+Corsika-Files/DAT000012 filter=lfs diff=lfs merge=lfs -text
+Corsika-Files/DAT000013 filter=lfs diff=lfs merge=lfs -text
+Corsika-Files/DAT000014 filter=lfs diff=lfs merge=lfs -text
+Corsika-Files/DAT000015 filter=lfs diff=lfs merge=lfs -text
+Corsika_Files/DAT000011 filter=lfs diff=lfs merge=lfs -text
+Corsika_Files/DAT000012 filter=lfs diff=lfs merge=lfs -text
+Corsika_Files/DAT000013 filter=lfs diff=lfs merge=lfs -text
+Corsika_Files/DAT000014 filter=lfs diff=lfs merge=lfs -text
+Corsika_Files/DAT000015 filter=lfs diff=lfs merge=lfs -text
